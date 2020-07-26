@@ -93,5 +93,6 @@ Functionality includes:
 i created my own api to interact with the mysql database.
 
 # link
-http://gentle-meadow-05600.herokuapp.com/
-
+- http://gentle-meadow-05600.herokuapp.com/
+## For some features that i had no time providing a link for in the app :
+- http://gentle-meadow-05600.herokuapp.com/profile/1
